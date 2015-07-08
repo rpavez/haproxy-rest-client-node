@@ -1,6 +1,6 @@
 {
 	"name": "haproxy-rest-client",
-	"version": "0.2.0",
+	"version": "0.1.1",
 	"description": "Node JS client for the node-haproxy-rest package.",
 	"homepage": "https://github.com/cuvva/haproxy-rest-client-node",
 	"bugs": "https://github.com/cuvva/haproxy-rest-client-node/issues",
