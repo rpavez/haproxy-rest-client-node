@@ -1,9 +1,9 @@
 {
-	"name": "haproxy-client-node",
-	"version": "0.1.0",
+	"name": "haproxy-rest-client",
+	"version": "0.2.0",
 	"description": "Node JS client for the node-haproxy-rest package.",
-	"homepage": "https://github.com/cuvva/haproxy-client-node",
-	"bugs": "https://github.com/cuvva/haproxy-client-node/issues",
+	"homepage": "https://github.com/cuvva/haproxy-rest-client-node",
+	"bugs": "https://github.com/cuvva/haproxy-rest-client-node/issues",
 
 	"license": "MIT",
 	"author": "Will Evans (http://will3942.com)",
@@ -12,7 +12,7 @@
 
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/cuvva/haproxy-client-node.git"
+		"url": "https://github.com/cuvva/haproxy-rest-client-node.git"
 	},
 
 	"dependencies": {
